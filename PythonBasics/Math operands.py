@@ -48,6 +48,8 @@ y = 4
 z = 2
 print(x < y)
 print(x < z)
+print(x > z)
+
 
 # Less than or equal to [<=]
 x = 3
