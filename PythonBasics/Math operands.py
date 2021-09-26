@@ -54,14 +54,12 @@ x = 3
 y = 3
 z = 2
 print(x <= y)
-print(x <= z)
 
 # Greater than or equal to [>=]
 x = 3
 y = 3
 z = 2
 print(x >= y)
-print(x >= z)
 
 # Not equal [!=]
 x = 3
