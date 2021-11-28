@@ -1,5 +1,4 @@
 import mysql.connector as connector
-import numpy as np
 
 
 mydb = connector.connect(
